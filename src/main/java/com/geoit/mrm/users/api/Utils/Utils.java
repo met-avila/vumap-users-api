@@ -3,7 +3,7 @@ package com.geoit.mrm.users.api.Utils;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.geoit.mrm.base.models.Menu;
+import com.geoit.mrm.users.api.models.Menu;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

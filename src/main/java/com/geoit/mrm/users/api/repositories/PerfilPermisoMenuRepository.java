@@ -4,7 +4,7 @@ import java.util.List;
 
 import javax.transaction.Transactional;
 
-import com.geoit.mrm.base.models.PerfilPermisoMenu;
+import com.geoit.mrm.users.api.models.PerfilPermisoMenu;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;

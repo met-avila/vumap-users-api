@@ -1,6 +1,6 @@
 package com.geoit.mrm.users.api.repositories;
 
-import com.geoit.mrm.base.models.TipoPermisoMenu;
+import com.geoit.mrm.users.api.models.TipoPermisoMenu;
 
 import org.springframework.data.repository.CrudRepository;
 

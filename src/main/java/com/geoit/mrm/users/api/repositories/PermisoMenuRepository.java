@@ -2,7 +2,7 @@ package com.geoit.mrm.users.api.repositories;
 
 import java.util.List;
 
-import com.geoit.mrm.base.models.PermisoMenu;
+import com.geoit.mrm.users.api.models.PermisoMenu;
 
 import org.springframework.data.repository.CrudRepository;
 

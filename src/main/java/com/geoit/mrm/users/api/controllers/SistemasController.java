@@ -6,16 +6,14 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.geoit.mrm.base.entities.ErrorResponse;
+import com.geoit.mrm.users.api.models.ErrorResponse;
 import com.geoit.mrm.users.api.Utils.Utils;
-import com.geoit.mrm.base.models.Menu;
-import com.geoit.mrm.base.models.PermisoMenu;
-import com.geoit.mrm.base.models.Sistema;
-import com.geoit.mrm.base.models.TipoPermisoMenu;
+import com.geoit.mrm.users.api.models.Menu;
+import com.geoit.mrm.users.api.models.PermisoMenu;
+import com.geoit.mrm.users.api.models.Sistema;
 import com.geoit.mrm.users.api.repositories.MenusRepository;
 import com.geoit.mrm.users.api.repositories.PermisoMenuRepository;
 import com.geoit.mrm.users.api.repositories.SistemasRepository;
-import com.geoit.mrm.users.api.repositories.TipoPermisoMenuRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
